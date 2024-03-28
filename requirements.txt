@@ -1,0 +1,5 @@
+pymodes~=2.17
+pyrtlsdr~=0.3.0
+pyrtlsdrlib
+scipy
+bless~=0.2.5
